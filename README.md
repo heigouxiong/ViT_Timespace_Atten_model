@@ -1,2 +1,2 @@
 # ViT_Timespace_Atten_model
-An framework for CSI prediction
+A framework for CSI prediction
